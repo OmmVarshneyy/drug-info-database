@@ -18,6 +18,7 @@ A beginner-friendly Python console application that allows users to **search**, 
 1. Download or clone the repository:
    ```bash
    git clone https://github.com/yourusername/drug-info-database.git
-[Om Varshney] – Pharmacy student learning Python 💊💻
+[Om Varshney] – Pharmacy student learning Python 
 GitHub: github.com/ommvarshneyy
+
 Feel free to fork this project, suggest improvements, or ask questions!
